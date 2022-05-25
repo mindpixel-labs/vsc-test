@@ -1,1 +1,1 @@
-test extension 2
+test extension 3
