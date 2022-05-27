@@ -1,8 +1,8 @@
 {
   "name": "mindpixel-test",
-  "displayName": "mindpixel-test",
-  "description": "",
-  "version": "2.0.0",
+	"displayName": "mindpixel-test",
+	"description": "",
+	"version": "3.0.0",
   "publisher": "mindpixel-labs",
   "repository": {
     "type": "git",
